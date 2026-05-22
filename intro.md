@@ -1,5 +1,12 @@
 # Métodos de Contagem
 
+::: {important}
+**Produto Educacional em Desenvolvimento**
+
+Este livro digital é parte integrante de uma pesquisa de Mestrado em andamento desenvolvida por Mariana R. C. de Castro. 
+
+Todos os direitos sobre os textos, sequências didáticas, códigos computacionais e animações estão reservados. **A reprodução, cópia ou distribuição parcial ou total deste material é estritamente proibida** sem autorização prévia.
+:::
 
 
 ### Introdução

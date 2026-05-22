@@ -1,0 +1,1 @@
+"© 2026 Mariana R. C. de Castro. Todos os direitos reservados. Produto educacional em desenvolvimento vinculado à pesquisa de Mestrado."

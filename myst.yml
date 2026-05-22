@@ -2,6 +2,7 @@
 version: 1
 project:
   id: f910ad87-2927-45d5-bb4b-05987e13e334
+  title: Métodos de contagem
   # title:
   # description:
   # keywords: []
@@ -16,6 +17,8 @@ project:
         - file: teste.ipynb
 site:
   template: book-theme
+  parts:
+    footer: footer.md
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
