@@ -1,4 +1,6 @@
-# Métodos de Contagem
+# Estratégias de Contagem
+
+## Explorando possibilidades por meio da resolução de problemas
 
 ::: {important}
 **Produto Educacional em Desenvolvimento**
@@ -9,45 +11,20 @@ Todos os direitos sobre os textos, sequências didáticas, códigos computaciona
 :::
 
 
-### Introdução
+**Bem-vindo(a)!**
 
+Você já parou para pensar em quantas senhas diferentes podem ser criadas para um aplicativo? Quantas maneiras existem de organizar uma fila, montar uma equipe, escolher um lanche ou planejar uma viagem? Em situações como essas, surge uma pergunta muito importante: quantas possibilidades existem?
 
+À primeira vista, responder a essa pergunta pode parecer simples. Quando o número de possibilidades é pequeno, podemos fazer uma lista e contar uma a uma. Mas o que acontece quando as possibilidades são centenas, milhares ou até milhões? Nesses casos, precisamos desenvolver estratégias que nos permitam organizar informações, identificar padrões e contar de forma eficiente.
 
-Neste material, vamos explorar métodos de contagem, um conjunto de estratégias matemáticas que nos ajudam a determinar quantas possibilidades existem em diferentes situações.
+Neste livro, você será convidado a explorar diferentes maneiras de resolver problemas de contagem. Investigaremos como organizar possibilidades e como determinar quantos resultados podem ser obtidos em diferentes situações.
 
+Ao longo dos capítulos, você descobrirá que alguns problemas são simples de contar, outros exigem separar casos, outros dependem da sequência de escolhas realizadas, enquanto outros envolvem restrições ou condições especiais. Em vez de decorar fórmulas, o objetivo será compreender as ideias por trás das soluções e desenvolver formas de raciocínio que possam ser aplicadas em novos problemas.
 
+Mais do que aprender técnicas específicas, você será incentivado a desenvolver estratégias que possam ser utilizadas em diferentes contextos.
 
-Contar pode parecer uma tarefa simples quando lidamos com poucos elementos. No entanto, em muitos casos do cotidiano, o número de possibilidades é tão grande que listar todas elas se torna inviável. É nesse momento que os métodos de contagem se tornam essenciais: eles permitem organizar o raciocínio e encontrar respostas de forma eficiente, sem precisar enumerar cada caso individualmente.
+As ideias estudadas aqui também aparecem em muitas áreas do conhecimento. Elas ajudam a determinar quantas senhas diferentes podem ser criadas, compreender combinações genéticas, analisar probabilidades, planejar rotas e resolver problemas do cotidiano que envolvem escolhas, organização e tomada de decisões.
 
+Este é um livro interativo. Ao longo do percurso, você encontrará atividades, desafios, simulações e recursos visuais que o ajudarão a explorar conceitos, formular hipóteses e construir seu próprio entendimento.
 
-
-Ao longo deste ebook, você será convidado a investigar e construir maneiras de responder perguntas como: “De quantas formas isso pode acontecer?” ou “Quantas possibilidades existem?”. Essas questões serão o ponto de partida para o desenvolvimento das ideias apresentadas aqui.
-
-
-
-#### Aplicações
-
-
-
-Os métodos de contagem estão presentes em diversas situações do dia a dia, muitas vezes sem que percebamos. Sempre que precisamos analisar possibilidades ou tomar decisões entre diferentes opções, estamos, de alguma forma, utilizando esse tipo de raciocínio.
-
-
-
-Alguns exemplos incluem:
-
-
-
-* A criação de senhas seguras, considerando diferentes combinações de letras, números e símbolos;
-* A quantidade de possíveis códigos em sistemas de segurança;
-* As possibilidades envolvidas em jogos e loterias;
-* A quantidade de diferentes placas de veículos, seguindo padrões específicos;
-* O número de possíveis números de telefone.
-
-
-
-Esses exemplos mostram como os métodos de contagem são úteis não apenas na Matemática, mas também em áreas como tecnologia, segurança e estatística.
-
-
-
-Neste ebook, vamos desenvolver, passo a passo, diferentes estratégias de contagem, buscando compreender não apenas como utilizá-las, mas também como pensar de forma organizada diante de problemas que envolvem múltiplas possibilidades.
-
+Prepare-se para investigar, experimentar e descobrir que contar é muito mais do que realizar cálculos: é aprender a organizar, analisar e enxergar possibilidades.
