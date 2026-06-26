@@ -12,6 +12,7 @@ project:
   toc:
     - file: intro.md
     - file: contagem.ipynb
+    - file: somar_ou_multiplicar.ipynb
 site:
   template: book-theme
   parts:
