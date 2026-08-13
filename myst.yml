@@ -13,6 +13,7 @@ project:
     - file: intro.md
     - file: contagem.ipynb
     - file: somar_ou_multiplicar.ipynb
+    - file: preenchendo_posicoes.ipynb
 site:
   template: book-theme
   parts:
