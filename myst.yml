@@ -15,6 +15,7 @@ project:
     - file: somar_ou_multiplicar.ipynb
     - file: quando_cada_escolha_muda_as_possibilidades.ipynb
     - file: quando_a_ordem_nao_importa.ipynb
+    - file: e_se_houver_restricoes.ipynb
 site:
   template: book-theme
   parts:
