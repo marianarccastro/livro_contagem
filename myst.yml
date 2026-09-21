@@ -16,6 +16,7 @@ project:
     - file: quando_cada_escolha_muda_as_possibilidades.ipynb
     - file: quando_a_ordem_nao_importa.ipynb
     - file: e_se_houver_restricoes.ipynb
+    - file: contar_o_contrario.ipynb
 site:
   template: book-theme
   parts:
