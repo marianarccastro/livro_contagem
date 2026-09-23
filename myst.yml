@@ -3,6 +3,8 @@ version: 1
 project:
   id: f910ad87-2927-45d5-bb4b-05987e13e334
   title: Estratégias de contagem
+  numbering:
+    equations: false
   # title:
   # description:
   # keywords: []
