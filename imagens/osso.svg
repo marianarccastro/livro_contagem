@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="535" viewBox="0 0 960 535" role="img" aria-labelledby="title desc">
+<title id="title">Quatro organizações que representam o anagrama OSSO</title>
+<desc id="desc">Duas organizações das letras O, cada uma acompanhada de duas organizações das letras S. São quatro organizações, representadas por O azul, O verde, S roxo e S rosa.</desc>
+<rect x="0" y="0" width="960" height="535" fill="#ffffff"/>
+<style>
+  text { font-family: system-ui, -apple-system, 'Segoe UI', Arial, sans-serif; fill:#222; }
+  .heading {font-size:26px;font-weight:700;}
+  .panelheading {font-size:17px;font-weight:650;}
+  .note {font-size:17px;}
+  .formula {font-size:29px;font-weight:700;}
+  .letter {font-size:29px;font-weight:700;text-anchor:middle;dominant-baseline:central;}
+</style>
+<text class="heading" x="480" y="42" text-anchor="middle">Quatro organizações que representam o mesmo anagrama</text>
+
+<rect x="30" y="76" width="440" height="294" rx="14" fill="#ffffff" stroke="#d6d9dc" stroke-width="1.5"/>
+<rect x="48" y="92" width="404" height="43" rx="9" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1"/>
+<text class="panelheading" x="250" y="119" text-anchor="middle" >1ª organização das letras O</text>
+<rect x="113" y="155" width="56" height="56" rx="9" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/><text class="letter" x="141" y="182" style="fill:#1d4ed8">O</text>
+<rect x="177" y="155" width="56" height="56" rx="9" fill="#f3e8ff" stroke="#d8b4fe" stroke-width="1.5"/><text class="letter" x="205" y="182" style="fill:#6b21a8">S</text>
+<rect x="241" y="155" width="56" height="56" rx="9" fill="#fce7f3" stroke="#f9a8d4" stroke-width="1.5"/><text class="letter" x="269" y="182" style="fill:#9d174d">S</text>
+<rect x="305" y="155" width="56" height="56" rx="9" fill="#dcfce7" stroke="#86efac" stroke-width="1.5"/><text class="letter" x="333" y="182" style="fill:#166534">O</text>
+<rect x="113" y="231" width="56" height="56" rx="9" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/><text class="letter" x="141" y="258" style="fill:#1d4ed8">O</text>
+<rect x="177" y="231" width="56" height="56" rx="9" fill="#fce7f3" stroke="#f9a8d4" stroke-width="1.5"/><text class="letter" x="205" y="258" style="fill:#9d174d">S</text>
+<rect x="241" y="231" width="56" height="56" rx="9" fill="#f3e8ff" stroke="#d8b4fe" stroke-width="1.5"/><text class="letter" x="269" y="258" style="fill:#6b21a8">S</text>
+<rect x="305" y="231" width="56" height="56" rx="9" fill="#dcfce7" stroke="#86efac" stroke-width="1.5"/><text class="letter" x="333" y="258" style="fill:#166534">O</text>
+<text class="note" x="250" y="341" text-anchor="middle" >2! organizações das letras S</text>
+<rect x="490" y="76" width="440" height="294" rx="14" fill="#ffffff" stroke="#d6d9dc" stroke-width="1.5"/>
+<rect x="508" y="92" width="404" height="43" rx="9" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1"/>
+<text class="panelheading" x="710" y="119" text-anchor="middle" >2ª organização das letras O</text>
+<rect x="573" y="155" width="56" height="56" rx="9" fill="#dcfce7" stroke="#86efac" stroke-width="1.5"/><text class="letter" x="601" y="182" style="fill:#166534">O</text>
+<rect x="637" y="155" width="56" height="56" rx="9" fill="#f3e8ff" stroke="#d8b4fe" stroke-width="1.5"/><text class="letter" x="665" y="182" style="fill:#6b21a8">S</text>
+<rect x="701" y="155" width="56" height="56" rx="9" fill="#fce7f3" stroke="#f9a8d4" stroke-width="1.5"/><text class="letter" x="729" y="182" style="fill:#9d174d">S</text>
+<rect x="765" y="155" width="56" height="56" rx="9" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/><text class="letter" x="793" y="182" style="fill:#1d4ed8">O</text>
+<rect x="573" y="231" width="56" height="56" rx="9" fill="#dcfce7" stroke="#86efac" stroke-width="1.5"/><text class="letter" x="601" y="258" style="fill:#166534">O</text>
+<rect x="637" y="231" width="56" height="56" rx="9" fill="#fce7f3" stroke="#f9a8d4" stroke-width="1.5"/><text class="letter" x="665" y="258" style="fill:#9d174d">S</text>
+<rect x="701" y="231" width="56" height="56" rx="9" fill="#f3e8ff" stroke="#d8b4fe" stroke-width="1.5"/><text class="letter" x="729" y="258" style="fill:#6b21a8">S</text>
+<rect x="765" y="231" width="56" height="56" rx="9" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/><text class="letter" x="793" y="258" style="fill:#1d4ed8">O</text>
+<text class="note" x="710" y="341" text-anchor="middle" >2! organizações das letras S</text>
+<text class="note" x="480" y="410" text-anchor="middle" >Para cada organização das letras O, existem 2! organizações das letras S.</text>
+<rect x="352" y="430" width="256" height="62" rx="12" fill="#f8fafc" stroke="#d6d9dc" stroke-width="1.5"/>
+<text class="formula" x="480" y="472" text-anchor="middle" >2! · 2! = 4</text>
+<text class="note" x="480" y="522" text-anchor="middle" >Quatro organizações que representam o anagrama OSSO.</text>
+</svg>
