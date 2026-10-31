@@ -1,0 +1,239 @@
+
+<div id="corretor-contagem" style="
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    max-width: 900px;
+    margin: 24px auto;
+    padding: 20px;
+    border: 1px solid #d6d9dc;
+    border-radius: 10px;
+    background-color: #fafafa;
+    color: #222;
+">
+
+    <!-- MARCADOR_CONFIG_CORRETOR -->
+
+    <div style="
+        font-size: 1.25em;
+        font-weight: 650;
+        margin-bottom: 8px;
+    ">
+        Corretor de exercícios
+    </div>
+
+    <div style="
+        line-height: 1.5;
+        margin-bottom: 20px;
+        color: #444;
+    ">
+        Escolha uma questão e escreva sua ideia, cálculo ou resposta.
+        Se não souber como começar, você também pode pedir uma dica.
+    </div>
+
+
+    <!-- QUESTÃO -->
+    <div style="margin-bottom: 18px;">
+
+        <label for="corretor-select-questao" style="
+            display: block;
+            font-weight: 600;
+            margin-bottom: 7px;
+        ">
+            Questão
+        </label>
+
+        <select
+            id="corretor-select-questao"
+            style="
+                width: 100%;
+                box-sizing: border-box;
+                padding: 10px;
+                border: 1px solid #9ca3af;
+                border-radius: 7px;
+                background-color: #ffffff;
+                color: #222;
+                font-size: 1em;
+            "
+        >
+            <!-- Opções criadas automaticamente pelo JavaScript -->
+        </select>
+
+        <div
+            id="corretor-enunciado"
+            style="
+                margin-top: 12px;
+                padding: 12px 14px;
+                background-color: #f8f9fa;
+                border: 1px solid #d9dde3;
+                border-radius: 8px;
+                line-height: 1.5;
+                white-space: pre-line;
+            "
+        >
+        </div>
+
+    </div>
+
+
+    <!-- ENTRADA -->
+    <div style="margin-bottom: 10px;">
+
+        <label for="corretor-resposta" style="
+            display: block;
+            font-weight: 600;
+            margin-bottom: 7px;
+        ">
+            Sua ideia ou resposta
+        </label>
+
+        <textarea
+            id="corretor-resposta"
+            rows="5"
+            placeholder="Escreva sua ideia, cálculo, resposta ou peça uma dica."
+            style="
+                width: 100%;
+                box-sizing: border-box;
+                padding: 11px;
+                border: 1px solid #9ca3af;
+                border-radius: 7px;
+                resize: vertical;
+                font-family: inherit;
+                font-size: 1em;
+                line-height: 1.45;
+            "
+        ></textarea>
+
+    </div>
+
+
+    <!-- CONTADORES -->
+    <div style="
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-bottom: 16px;
+        font-size: 0.92em;
+        color: #555;
+    ">
+
+        <span id="corretor-tentativas">
+            Tentativas incorretas: 0 de 3
+        </span>
+
+        <span id="corretor-dicas">
+            Dicas solicitadas: 0
+        </span>
+
+        <span>
+            Pedir uma dica não conta como tentativa.
+        </span>
+
+    </div>
+
+
+    <!-- BOTÕES -->
+    <div style="
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 18px;
+    ">
+
+        <button
+            id="corretor-enviar"
+            type="button"
+            style="
+                padding: 10px 16px;
+                border: 1px solid #374151;
+                border-radius: 7px;
+                background-color: #374151;
+                color: #ffffff;
+                font-size: 1em;
+                cursor: pointer;
+            "
+        >
+            Enviar
+        </button>
+
+        <button
+            id="corretor-dica"
+            type="button"
+            style="
+                padding: 10px 16px;
+                border: 1px solid #6b7280;
+                border-radius: 7px;
+                background-color: #ffffff;
+                color: #222;
+                font-size: 1em;
+                cursor: pointer;
+            "
+        >
+            Pedir uma dica
+        </button>
+
+        <button
+            id="corretor-solucao"
+            type="button"
+            style="
+                display: none;
+                padding: 10px 16px;
+                border: 1px solid #6b7280;
+                border-radius: 7px;
+                background-color: #ffffff;
+                color: #222;
+                font-size: 1em;
+                cursor: pointer;
+            "
+        >
+            Mostrar solução
+        </button>
+
+    </div>
+
+
+    <!-- STATUS -->
+    <div
+        id="corretor-status"
+        style="
+            display: none;
+            margin-bottom: 12px;
+            font-size: 0.92em;
+            font-weight: 600;
+        "
+    ></div>
+
+
+    <!-- FEEDBACK -->
+    <div
+        id="corretor-feedback"
+        aria-live="polite"
+        style="
+            display: none;
+            padding: 14px;
+            border-radius: 8px;
+            line-height: 1.55;
+            white-space: pre-wrap;
+        "
+    ></div>
+
+
+    <!-- SOLUÇÃO -->
+    <div
+        id="corretor-area-solucao"
+        style="
+            display: none;
+            margin-top: 14px;
+            padding: 14px;
+            background-color: #ffffff;
+            border: 1px solid #d9dde3;
+            border-radius: 8px;
+            line-height: 1.55;
+            white-space: pre-wrap;
+        "
+    ></div>
+
+</div>
+
+
+<!-- MARCADOR_JS_CORRETOR -->
